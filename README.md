@@ -2,6 +2,11 @@
 
 Site estático (HTML/CSS/JS puro, sem build) pronto para publicar no GitHub Pages.
 
+**Estrutura actual:** o foco é a carreira profissional (Dossiê + Trajecto Profissional, com as
+iniciativas reais de segurança da informação no BFA). Depois há um separador visual ("Depois do
+expediente") que muda a paleta de âmbar para teal e introduz o Laboratório Pessoal — os 4
+projectos Lovable, agora apresentados como hobby de programação com IA, não como trabalho.
+
 ## Antes de publicar — preenche isto
 
 Abre `index.html` e substitui os placeholders da secção de contacto (procura por `o-teu-email`,
